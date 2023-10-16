@@ -6,6 +6,11 @@ body {
     padding: 0;
 }
 
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+
 header {
     background-color: #2ecc71;
     color: #fff;
@@ -54,11 +59,3 @@ footer {
     padding: 10px;
 }
 
-
-body {
-
-    body {
-        font-family: 'Montserrat', sans-serif;
-    }
-    
-}
